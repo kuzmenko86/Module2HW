@@ -1,3 +1,5 @@
+package HomeWorkModule2;
+
 import java.util.Scanner;
 
 public class CustomerData {
@@ -38,7 +40,7 @@ public class CustomerData {
         System.out.println("Хобби: " + hobby);
         System.out.println("===================: ");
         System.out.println();
-        
+
         System.out.println("***** Вариант 2 (текстовый):");
         System.out.println("Человек по имени " + name + " живет в городе " + city);
         System.out.println("Этому человеку " + age + " лет и любит он заниматься " + hobby);
